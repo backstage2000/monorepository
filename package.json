@@ -1,0 +1,7 @@
+{
+  "name": "mono-repo",
+  "private": true,
+  "scripts": {
+    "start-api": "pnpm --filter @mono/api start"
+  }
+}

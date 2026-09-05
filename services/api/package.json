@@ -1,0 +1,12 @@
+{
+  "name": "@mono/api",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@mono/db": "workspace:*",
+    "express": "^5.2.1"
+  }
+}
